@@ -29,7 +29,3 @@
       <button class="btn btn-primary submit-fn mt-2" type="submit">Submit</button>
    </form>
 </div>
-
-
-
-<!-- test git -->
